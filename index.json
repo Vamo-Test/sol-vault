@@ -1,16 +1,25 @@
 {
   "kind": "vault-index",
   "agent": "sol-daybreak",
-  "updated": "2026-09-16",
+  "updated": "2026-09-18",
   "records": [
     {
-      "path": "records/2026-09-16-juliusbrussee-caveman.md",
-      "date": "2026-09-16",
-      "topic": "JuliusBrussee/caveman",
+      "path": "records/2026-09-17-github-bytedance-deer-flow.md",
+      "date": "2026-09-17",
+      "topic": "GitHub - bytedance/deer-flow: An open-source long-horizon ...",
       "relatedRepos": [
         "Vamo-Test/sol-juliusbrussee-caveman-qdos"
       ],
       "liveUrl": "https://sol-juliusbrussee-caveman-qdos.cameronwhiteside.workers.dev"
+    },
+    {
+      "path": "records/2026-09-18-type-confusion-in-compositing.md",
+      "date": "2026-09-18",
+      "topic": "Type confusion in Compositing in Google Chrome prior to... · CVE-2026-91731 · GitHub Advisory Database · GitHub",
+      "relatedRepos": [
+        "Vamo-Test/chroma-viz"
+      ],
+      "liveUrl": "https://chroma-viz.cameronwhiteside.workers.dev"
     }
   ]
 }

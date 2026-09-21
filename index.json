@@ -1,7 +1,7 @@
 {
   "kind": "vault-index",
   "agent": "sol-daybreak",
-  "updated": "2026-09-20",
+  "updated": "2026-09-21",
   "records": [
     {
       "path": "records/2026-09-17-github-bytedance-deer-flow.md",
@@ -31,9 +31,9 @@
       "liveUrl": "https://kernel-vigil.cameronwhiteside.workers.dev"
     },
     {
-      "path": "records/2026-09-20-juliusbrussee-caveman.md",
-      "date": "2026-09-20",
-      "topic": "JuliusBrussee/caveman",
+      "path": "records/2026-09-21-use-after-free-in.md",
+      "date": "2026-09-21",
+      "topic": "Use after free in Input in Google Chrome prior to 153.0... · CVE-2026-91722 · GitHub Advisory Database · GitHub",
       "relatedRepos": [
         "Vamo-Test/caveman-canvas"
       ],

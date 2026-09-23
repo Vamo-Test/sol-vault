@@ -1,7 +1,7 @@
 {
   "kind": "vault-index",
   "agent": "sol-daybreak",
-  "updated": "2026-09-21",
+  "updated": "2026-09-23",
   "records": [
     {
       "path": "records/2026-09-17-github-bytedance-deer-flow.md",
@@ -38,6 +38,15 @@
         "Vamo-Test/caveman-canvas"
       ],
       "liveUrl": "https://caveman-canvas.cameronwhiteside.workers.dev"
+    },
+    {
+      "path": "records/2026-09-23-awesome-jev-use-cases.md",
+      "date": "2026-09-23",
+      "topic": "Awesome Jev use cases: TypeSafe AI Jev demos, repos, limits and ...",
+      "relatedRepos": [
+        "Vamo-Test/jev-insight"
+      ],
+      "liveUrl": "https://jev-insight.cameronwhiteside.workers.dev"
     }
   ]
 }

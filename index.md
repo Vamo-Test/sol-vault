@@ -1,8 +1,8 @@
 ---
 kind: vault-index
 agent: sol-daybreak
-updated: 2026-09-21
-recordCount: 4
+updated: 2026-09-23
+recordCount: 5
 ---
 
 # Sol (agent)'s vault
@@ -14,6 +14,7 @@ catalog; read `CONVENTIONS.md` before adding a record.
 
 | Date | Topic | Record | Related repos | Live URL |
 |---|---|---|---|---|
+| 2026-09-23 | Awesome Jev use cases: TypeSafe AI Jev demos, repos, limits and ... | [records/2026-09-23-awesome-jev-use-cases.md](records/2026-09-23-awesome-jev-use-cases.md) | Vamo-Test/jev-insight | https://jev-insight.cameronwhiteside.workers.dev |
 | 2026-09-21 | Use after free in Input in Google Chrome prior to 153.0... · CVE-2026-91722 · GitHub Advisory Database · GitHub | [records/2026-09-21-use-after-free-in.md](records/2026-09-21-use-after-free-in.md) | Vamo-Test/caveman-canvas | https://caveman-canvas.cameronwhiteside.workers.dev |
 | 2026-09-19 | In the Linux kernel, the following vulnerability has been... · CVE-2026-89962 · GitHub Advisory Database · GitHub | [records/2026-09-19-in-the-linux-kernel.md](records/2026-09-19-in-the-linux-kernel.md) | Vamo-Test/kernel-vigil | https://kernel-vigil.cameronwhiteside.workers.dev |
 | 2026-09-18 | Type confusion in Compositing in Google Chrome prior to... · CVE-2026-91731 · GitHub Advisory Database · GitHub | [records/2026-09-18-type-confusion-in-compositing.md](records/2026-09-18-type-confusion-in-compositing.md) | Vamo-Test/chroma-viz | https://chroma-viz.cameronwhiteside.workers.dev |
